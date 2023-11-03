@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://e6vr3t8gkp1k"]
+
+[ext_resource type="PackedScene" uid="uid://c7xfla8ur65in" path="res://monmodels/odduck.glb" id="1_aj034"]
+
+[node name="odduck" instance=ExtResource("1_aj034")]
+transform = Transform3D(0.621511, 0, 0, 0, 0.621511, 0, 0, 0, 0.621511, 0, 0, 0)

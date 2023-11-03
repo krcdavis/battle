@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bmm3a0lpfboby"]
+
+[ext_resource type="PackedScene" uid="uid://dswc3bd1o318h" path="res://monmodels/lileaf.glb" id="1_bcgea"]
+
+[node name="lileaf" instance=ExtResource("1_bcgea")]
+transform = Transform3D(0.389731, 0, 0, 0, 0.389731, 0, 0, 0, 0.389731, 0, 0, 0)

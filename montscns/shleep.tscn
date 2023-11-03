@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cr1sb71oxxs74"]
+
+[ext_resource type="PackedScene" uid="uid://ld4krfsr604q" path="res://monmodels/shleep.glb" id="1_lyav5"]
+
+[node name="shleep" instance=ExtResource("1_lyav5")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, 0, 0, 0)

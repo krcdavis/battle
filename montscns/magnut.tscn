@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c1wiwkulh0hia"]
+
+[ext_resource type="PackedScene" uid="uid://dg0r6k6w3vbgl" path="res://monmodels/magnut.glb" id="1_cxv8s"]
+
+[node name="magnut" instance=ExtResource("1_cxv8s")]
+transform = Transform3D(-2.52023e-08, 0, -0.576563, 0, 0.576563, 0, 0.576563, 0, -2.52023e-08, 0, 0, 0)

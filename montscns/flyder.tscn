@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://cavufqvqr2ujf"]
+
+[ext_resource type="PackedScene" uid="uid://cxfvq66f7d0al" path="res://monmodels/flyder.glb" id="1_n2mr6"]
+
+[node name="flyder" instance=ExtResource("1_n2mr6")]
